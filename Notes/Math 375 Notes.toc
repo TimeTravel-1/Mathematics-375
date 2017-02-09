@@ -1,0 +1,79 @@
+\contentsline {section}{\numberline {1}September 12, 2016}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Review of Differential Equations}{4}{subsection.1.1}
+\contentsline {section}{\numberline {2}September 14, 2016}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}General Differential Equations Cont'd}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Linear and Non-Linear Differential Equations}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}First Order Linear Equations}{6}{subsection.2.3}
+\contentsline {section}{\numberline {3}September 16, 2016}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}First Order Linear Equations Cont'd}{7}{subsection.3.1}
+\contentsline {section}{\numberline {4}September 19, 2016}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}First Order Separable Equations}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Types of Equations}{10}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}First Order Exact Equations}{10}{subsection.4.3}
+\contentsline {section}{\numberline {5}September 21, 2016}{12}{section.5}
+\contentsline {subsection}{\numberline {5.1}Types of First Order Differential Equations}{12}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Bernoulli Equations}{12}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Homogeneous Equations}{14}{subsection.5.3}
+\contentsline {section}{\numberline {6}September 23, 2016}{14}{section.6}
+\contentsline {subsection}{\numberline {6.1}Homogeneous Equations Cont'd}{14}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Integrating Factor}{16}{subsection.6.2}
+\contentsline {section}{\numberline {7}September 26, 2016}{18}{section.7}
+\contentsline {subsection}{\numberline {7.1}Exponential Growth and Decay}{18}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Newton's Law of Cooling/Heating}{19}{subsection.7.2}
+\contentsline {section}{\numberline {8}September 28, 2016}{22}{section.8}
+\contentsline {subsection}{\numberline {8.1}Mixing Problems}{22}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Electric Circuits}{23}{subsection.8.2}
+\contentsline {section}{\numberline {9}September 30, 2016}{24}{section.9}
+\contentsline {subsection}{\numberline {9.1}Electric Circuits Cont'd}{24}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Second Order Linear Ordinary Differential Equations}{25}{subsection.9.2}
+\contentsline {section}{\numberline {10}October 3, 2016}{26}{section.10}
+\contentsline {subsection}{\numberline {10.1}October 5, 2016}{29}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Second Order Linear Ordinary Differential Equations Cont'd}{29}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Reduction of Order}{31}{subsection.10.3}
+\contentsline {subsection}{\numberline {10.4}Equations with Constant Coefficients}{32}{subsection.10.4}
+\contentsline {section}{\numberline {11}October 7, 2016}{33}{section.11}
+\contentsline {subsection}{\numberline {11.1}Constant Coefficients}{33}{subsection.11.1}
+\contentsline {section}{\numberline {12}October 12, 2016}{35}{section.12}
+\contentsline {subsection}{\numberline {12.1}Higher Order Linear Ordinary Differential Equations}{35}{subsection.12.1}
+\contentsline {subsection}{\numberline {12.2}Higher Order Differential Equations}{36}{subsection.12.2}
+\contentsline {section}{\numberline {13}October 14, 2016}{38}{section.13}
+\contentsline {subsection}{\numberline {13.1}Higher Order Linear Differential Equations with Constant Coefficients}{38}{subsection.13.1}
+\contentsline {subsection}{\numberline {13.2}The Method of Undetermined Coefficients}{39}{subsection.13.2}
+\contentsline {subsection}{\numberline {13.3}Summary of Solutions}{40}{subsection.13.3}
+\contentsline {section}{\numberline {14}October 17, 2016}{40}{section.14}
+\contentsline {subsection}{\numberline {14.1}Undetermined Coefficients Method Cont'd}{40}{subsection.14.1}
+\contentsline {subsection}{\numberline {14.2}Summary of Solutions}{41}{subsection.14.2}
+\contentsline {section}{\numberline {15}October 19, 2016}{43}{section.15}
+\contentsline {subsection}{\numberline {15.1}Variation of Parameters}{43}{subsection.15.1}
+\contentsline {section}{\numberline {16}October 21 , 2016}{44}{section.16}
+\contentsline {subsection}{\numberline {16.1}Introduction and Properties of Laplace Transform}{44}{subsection.16.1}
+\contentsline {subsection}{\numberline {16.2}Properties of Laplace Transform}{45}{subsection.16.2}
+\contentsline {section}{\numberline {17}October 24, 2016}{46}{section.17}
+\contentsline {subsection}{\numberline {17.1}The Laplace Transform Cont'd}{46}{subsection.17.1}
+\contentsline {section}{\numberline {18}October 26, 2016}{49}{section.18}
+\contentsline {subsection}{\numberline {18.1}Midterm Review}{49}{subsection.18.1}
+\contentsline {section}{\numberline {19}October 31, 2016}{50}{section.19}
+\contentsline {subsection}{\numberline {19.1}The Laplace Transform Cont'd}{50}{subsection.19.1}
+\contentsline {subsection}{\numberline {19.2}The Inverse Laplace Transform}{51}{subsection.19.2}
+\contentsline {section}{\numberline {20}November 2, 2016}{52}{section.20}
+\contentsline {subsection}{\numberline {20.1}Inverse Laplace Transform Cont'd}{52}{subsection.20.1}
+\contentsline {subsection}{\numberline {20.2}Differential Equations with the Laplace Transform}{53}{subsection.20.2}
+\contentsline {section}{\numberline {21}November 4, 2016}{54}{section.21}
+\contentsline {subsection}{\numberline {21.1}Problems of Inverse Laplace Transform}{54}{subsection.21.1}
+\contentsline {subsection}{\numberline {21.2}Systems of Linear Ordinary Differential Equations}{54}{subsection.21.2}
+\contentsline {section}{\numberline {22}November 7, 2016}{56}{section.22}
+\contentsline {subsection}{\numberline {22.1}Systems of Linear Differential Equations Cont'd}{56}{subsection.22.1}
+\contentsline {section}{\numberline {23}November 9, 2016}{58}{section.23}
+\contentsline {subsection}{\numberline {23.1}Systems of Linear Homogeneous Ordinary Differential Equations}{58}{subsection.23.1}
+\contentsline {section}{\numberline {24}November 25, 2016}{60}{section.24}
+\contentsline {subsection}{\numberline {24.1}Sturn-Liouville Problems Cont'd}{60}{subsection.24.1}
+\contentsline {section}{\numberline {25}Separation of Variables Cont'd}{63}{section.25}
+\contentsline {section}{\numberline {26}November 30, 2016}{65}{section.26}
+\contentsline {subsection}{\numberline {26.1}}{65}{subsection.26.1}
+\contentsline {section}{\numberline {27}Paragraph}{67}{section.27}
+\contentsline {section}{\numberline {28}Math}{67}{section.28}
+\contentsline {subsection}{\numberline {28.1}Using alignment}{68}{subsection.28.1}
+\contentsline {section}{\numberline {29}Shortcuts}{68}{section.29}
+\contentsline {section}{\numberline {30}Theorems and Proofs}{68}{section.30}
+\contentsline {section}{\numberline {31}Referencing}{69}{section.31}
+\contentsline {section}{\numberline {32}Numbered and Bulleted Lists}{69}{section.32}
